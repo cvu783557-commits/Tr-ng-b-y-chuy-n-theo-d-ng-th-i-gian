@@ -1,0 +1,6 @@
+{
+  "name": "Bảo Tàng Di Sản — Trưng Bày Chuyên Đề Theo Dòng Thời Gian",
+  "description": "Không gian trưng bày chuyên đề theo dòng thời gian về hành trình kiến trúc, mỹ thuật và thủ công mỹ nghệ Việt Nam từ 1802 đến 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
